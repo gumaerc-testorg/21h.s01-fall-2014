@@ -2,8 +2,13 @@
 content_type: resource
 description: "Assignment on Sidney Mintz\u2019s argument about the six functions or\
   \ uses of sugar. "
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-s01-food-in-american-history-fall-2014/772a2cf1dc16554556ff2bd86c837e6e_MIT21H_S01F14_Su_6Wa_Ins.pdf
+file: /media/courses/21h-s01-food-in-american-history-fall-2014/772a2cf1dc16554556ff2bd86c837e6e_MIT21H_S01F14_Su_6Wa_Ins.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Sugar Six Ways
 uid: 772a2cf1-dc16-5545-56ff-2bd86c837e6e
