@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b4adc07b-25f7-99d5-0753-fc317b434ab4
 resourcetype: Document
 title: Sugar Six Ways
 uid: 772a2cf1-dc16-5545-56ff-2bd86c837e6e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b4adc07b-25f7-99d5-0753-fc317b434ab4
 resourcetype: Document
 title: Some Tips for Writing History Papers
 uid: 83c15a77-0012-b087-423c-5e92552d2015

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b4adc07b-25f7-99d5-0753-fc317b434ab4
 resourcetype: Document
 title: 'Spam: Marketing an Identity'
 uid: 7a8a6c7c-713d-5624-0eb9-0a77683e65e4

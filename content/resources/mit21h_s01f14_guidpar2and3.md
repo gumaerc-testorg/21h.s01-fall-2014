@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b4adc07b-25f7-99d5-0753-fc317b434ab4
 resourcetype: Document
 title: 'Research Paper Assignment: Parts 2 and 3'
 uid: d9efb3db-42a4-c81a-ed02-9bcb866f7477

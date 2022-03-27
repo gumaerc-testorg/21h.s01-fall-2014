@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b4adc07b-25f7-99d5-0753-fc317b434ab4
 resourcetype: Document
 title: Molecular Gastronomy with a Modern Retelling
 uid: 4fd376a6-13a6-7eaf-4fe9-db59e40d3f89
