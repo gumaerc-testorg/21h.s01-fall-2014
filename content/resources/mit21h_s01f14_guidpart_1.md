@@ -6,6 +6,7 @@ file: /courses/21h-s01-food-in-american-history-fall-2014/7014ba12c5e53c62d0e7d2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Research Paper Assignment: Part 1'
 uid: 7014ba12-c5e5-3c62-d0e7-d234eb905e86
 ---
 Instructions for an assignment to create a research topic proposal and bibliography.
-

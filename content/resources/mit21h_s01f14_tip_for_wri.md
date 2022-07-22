@@ -5,6 +5,7 @@ file: /courses/21h-s01-food-in-american-history-fall-2014/83c15a770012b087423c5e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Some Tips for Writing History Papers
 uid: 83c15a77-0012-b087-423c-5e92552d2015
 ---
 Suggestions from the course instructor on writing history papers.
-
