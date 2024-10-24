@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: an essay on alcohol consumption in America.'
-file: /courses/21h-s01-food-in-american-history-fall-2014/143040e90feab2a55ae733d8f684b44e_MIT21H_S01F14_Fin_Pa_Beer.pdf
+file: /ol-ocw-studio-app/courses/21h-s01-food-in-american-history-fall-2014/143040e90feab2a55ae733d8f684b44e_MIT21H_S01F14_Fin_Pa_Beer.pdf
 file_size: 126095
 file_type: application/pdf
 learning_resource_types:
