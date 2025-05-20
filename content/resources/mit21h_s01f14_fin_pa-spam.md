@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: an essay on the marketing of Spam in America.'
-file: /ol-ocw-studio-app/courses/21h-s01-food-in-american-history-fall-2014/7a8a6c7c713d56240eb90a77683e65e4_MIT21H_S01F14_Fin_Pa-SPAM.pdf
+file: /courses/21h-s01-food-in-american-history-fall-2014/7a8a6c7c713d56240eb90a77683e65e4_MIT21H_S01F14_Fin_Pa-SPAM.pdf
 file_size: 400205
 file_type: application/pdf
 learning_resource_types:
