@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for a final research paper and oral presentation assignment.
-file: /ol-ocw-studio-app/courses/21h-s01-food-in-american-history-fall-2014/d9efb3db42a4c81aed029bcb866f7477_MIT21H_S01F14_GuidPar2and3.pdf
+file: /courses/21h-s01-food-in-american-history-fall-2014/d9efb3db42a4c81aed029bcb866f7477_MIT21H_S01F14_GuidPar2and3.pdf
 file_size: 154167
 file_type: application/pdf
 learning_resource_types:
