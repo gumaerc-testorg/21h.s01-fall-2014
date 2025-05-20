@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Suggestions from the course instructor on writing history papers.
-file: /ol-ocw-studio-app/courses/21h-s01-food-in-american-history-fall-2014/83c15a770012b087423c5e92552d2015_MIT21H_S01F14_Tip_for_Wri.pdf
+file: /courses/21h-s01-food-in-american-history-fall-2014/83c15a770012b087423c5e92552d2015_MIT21H_S01F14_Tip_for_Wri.pdf
 file_size: 109110
 file_type: application/pdf
 learning_resource_types:
