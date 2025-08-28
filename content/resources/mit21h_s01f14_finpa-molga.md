@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: an essay on the field of molecular gastronomy.'
-file: /courses/21h-s01-food-in-american-history-fall-2014/4fd376a613a67eaf4fe9db59e40d3f89_MIT21H_S01F14_FinPa-MolGa.pdf
+file: /ol-ocw-studio-app/courses/21h-s01-food-in-american-history-fall-2014/4fd376a613a67eaf4fe9db59e40d3f89_MIT21H_S01F14_FinPa-MolGa.pdf
 file_size: 174879
 file_type: application/pdf
 learning_resource_types:
