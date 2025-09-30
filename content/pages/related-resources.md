@@ -7,20 +7,20 @@ ocw_type: CourseSection
 title: Related Resources
 uid: fa62247e-ccf0-0004-e365-a87372621882
 ---
-[Feeding America: Historic American Cookbooks](https://search.library.wisc.edu/database/UWI13143)
+{{% resource_link "95fd8862-0bd4-4a6a-94b8-b5fcbad06a27" "Feeding America: Historic American Cookbooks" %}}
 
-[Old Cookbooks: Mostly Medieval and Early Modern Europe](http://www.notaker.com/old_onli.htm)
+{{% resource_link "4f15890c-ccc0-4176-878e-35b742fa8f80" "Old Cookbooks: Mostly Medieval and Early Modern Europe" %}}
 
-[Culinary Arts Museum, Rhode Island](http://jwu.pastperfect-online.com/33387cgi/mweb.exe?request=jump;dtype=d;startat=13) - Online historical recipes search
+{{% resource_link "9cb45048-01d8-4217-ae9f-163bc8e840b5" "Culinary Arts Museum, Rhode Island" %}} - Online historical recipes search
 
-[Food and Beverage History, Cornell University](http://rmc.library.cornell.edu/collections/food_wine.html)
+{{% resource_link "70fdadb0-ffe7-4c44-8103-7d1f369beab2" "Food and Beverage History, Cornell University" %}}
 
-[Library of Congress: America Eats](http://www.loc.gov/exhibits/treasures/)
+{{% resource_link "68a946d2-05e4-4d22-a509-facc39acdcb5" "Library of Congress: America Eats" %}}
 
-[History of Eating Utensils](http://researcharchive.calacademy.org/research/anthropology/utensil/index.html)
+{{% resource_link "9b97b089-f60a-4f97-aa20-a7d99613c740" "History of Eating Utensils" %}}
 
-[Food & Drug Administration Archives](https://www.fda.gov/about-fda/fdas-evolving-regulatory-powers/part-i-1906-food-and-drugs-act-and-its-enforcement) - 1906 Pure Food and Drug Act
+{{% resource_link "1b8e91b9-5e0e-4742-9f3a-64e1520559a1" "Food & Drug Administration Archives" %}} - 1906 Pure Food and Drug Act
 
-[Bittersweet Harvest: The Bracero Program](https://www.sites.si.edu/s/archived-exhibit?topicId=0TO36000000L5N3GAK)
+{{% resource_link "4b418a6a-c7a6-4855-a957-4ce15e11841d" "Bittersweet Harvest: The Bracero Program" %}}
 
-[Food History News](https://www.oxfordreference.com/view/10.1093/acref/9780199734962.001.0001/acref-9780199734962-e-1129)
+{{% resource_link "73afd423-7571-4938-8efb-ba99286e148f" "Food History News" %}}
